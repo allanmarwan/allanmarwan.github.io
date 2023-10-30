@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(192, 191, 191);
+}
+#w  {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+#wep  {
+    text-align:justify;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.w1 {
+    font-weight: bold;
+    background-color:rgb(192, 191, 191);
+
+}
+#me{
+  text-align: left;
+  width:20px;
+
+}
+
+
+
+#ul {
+    color: rgb(49, 26, 162);
+}
